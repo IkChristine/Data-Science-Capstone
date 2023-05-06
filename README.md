@@ -1,9 +1,8 @@
-# Data Science Capstone
-#IBM Data Science Professional Certificate
+# Data Science Capstone - IBM Data Science Professional Certificate
 
 
 
-#List of courses
+List of courses
 1. What is Data Science?
 2. Tools for Data Science
 3. Data Science Methodology
